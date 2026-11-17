@@ -1,6 +1,6 @@
 ---
 osa: Ettevõte
-kirjeldus: Mida ettevõte teeb, kellele, mida ei tee, kes veel töötab ja mida digikolleeg tohib.
+kirjeldus: "Mida ettevõte teeb, kellele, mida ei tee, kes veel töötab ja mida digikolleeg tohib."
 seis: tühi
 uuendatud:
 ---

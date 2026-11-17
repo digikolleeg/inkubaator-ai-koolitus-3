@@ -11,7 +11,3 @@
 1. Ava uus vestlus.
 2. Lisa failid manusena (kirjaklambri ikoon). Iga faili parandus tuleb hiljem uuesti üles laadida.
 3. Kui AI ei saa faili salvestada, palu tal näidata faili sisu ja salvesta ise tekstiredaktoriga. Kontrolli, et faili nimi ei lõpe `.md.txt`.
-
-## Skilli tee
-
-Kui oled paigaldanud konteksti-looja skilli, ütle „töötoa digikolleeg”. Esimesel korral kasuta siiski kleebitavat intervjuud, et kõigil oleks sama tee.

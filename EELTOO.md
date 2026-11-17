@@ -11,15 +11,15 @@ Kui midagi jääb pooleli, tule ikka. Ilma eeltööta töötad näidisfirmaga ja
 
 AI küsib ühe küsimuse korraga sinu ettevõtte, pakkumise, hääle ja korduvate tööde kohta. Lõpus saad teada, mitu tundi kuus su korduvad tööd võtavad.
 
-Kui AI ei näe kausta, kopeeri faili [`ettevotte-aju/INTERVJUU.md`](ettevotte-aju/INTERVJUU.md) sisu vestlusesse ja salvesta failid, mida AI näitab, ise.
+Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele kaustast `ettevotte-aju/` manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `2-ettevote/kes-me-oleme.md`, `3-pakkumine/faktid.md`, `5-haal/kuidas-kirjutame.md` ja `7-tood/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise samasse kausta.
 
-## 2. Kaks-kolm testkirja (5 min)
+## 2. Kolm testkirja (5 min)
 
-Vali 2–3 kliendikirja, millele vastad tihti: hinnapäring, broneering, kaebus vms. Pane need eraldi kausta **väljaspool** `ettevotte-aju/` kausta, igaüks eraldi faili. Neid AI-le enne töötuba ei anta.
+Vali 3 kliendikirja, millele vastad tihti: hinnapäring, broneering, kaebus vms. Pane need eraldi kausta **väljaspool** `ettevotte-aju/` kausta, igaüks eraldi faili. Neid AI-le enne töötuba ei anta.
 
 **Enne kopeerimist tee need puhtaks:** [`andmekaitse/puhastamine.md`](andmekaitse/puhastamine.md). Lühidalt: nimed, telefonid, e-postid, aadressid ja tellimusnumbrid välja; tervis, võlad ja tülid asenda ühe üldise lausega.
 
-Kui sul selliseid kirju pole, kirjuta ise kaks kirja, mida ootad klientidelt saavat. Kui puhastamine pole selge, jäta see samm vahele; töötoas saad testida näidisfirma kirjadega.
+Kui sul selliseid kirju on vähem, kirjuta puuduolevad ise: kirjad, mida ootad klientidelt saavat. Kui puhastamine pole selge, jäta see samm vahele; töötoas saad testida näidisfirma kirjadega.
 
 ## Kaasa
 

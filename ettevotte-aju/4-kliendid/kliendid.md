@@ -1,6 +1,6 @@
 ---
 osa: Kliendid
-kirjeldus: Tüüpiline klient, tema sõnad, kanal, küsimused enne ostu, miks ostab ja miks loobub.
+kirjeldus: "Tüüpiline klient, tema sõnad, kanal, küsimused enne ostu, miks ostab ja miks loobub."
 seis: tühi
 uuendatud:
 ---

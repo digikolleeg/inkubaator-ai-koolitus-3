@@ -1,6 +1,6 @@
 ---
 osa: Süsteemid
-kirjeldus: Tööriistad, kus mis info asub ja mida kopeeritakse käsitsi ühest kohast teise.
+kirjeldus: "Tööriistad, kus mis info asub ja mida kopeeritakse käsitsi ühest kohast teise."
 seis: tühi
 uuendatud:
 ---

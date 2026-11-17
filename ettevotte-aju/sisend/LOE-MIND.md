@@ -7,4 +7,4 @@ AI loeb siit, kui palud („vaata sisendit ja paku, mida pakkumise osasse lisada
 Siia ei käi:
 - **testkirjad**: need hoia väljaspool ettevõtte aju kausta, muidu näeb AI vastust enne testi;
 - paroolid, võtmed ja sisselogimise andmed;
-- kliendi nimed, telefonid, e-postid ja aadressid (juhend: `andmekaitse/puhastamine.md`).
+- kliendi nimed, telefonid, e-postid ja aadressid (juhend: [puhastamine](../../andmekaitse/puhastamine.md), asub repo juures, mitte selles kaustas).

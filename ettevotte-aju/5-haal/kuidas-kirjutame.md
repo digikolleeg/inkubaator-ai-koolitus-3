@@ -1,6 +1,6 @@
 ---
 osa: Hääl
-kirjeldus: Kuidas omanik kliendile kirjutab: pöördumine, tervitus, keelatud väljendid ja tema enda saadetud vastused.
+kirjeldus: "Kuidas omanik kliendile kirjutab: pöördumine, tervitus, keelatud väljendid ja tema enda saadetud vastused."
 seis: tühi
 uuendatud:
 ---

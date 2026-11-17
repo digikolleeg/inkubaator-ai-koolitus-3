@@ -5,7 +5,7 @@
 1. Laadi repo alla ja võta kaust `ettevotte-aju/`. See on sinu töökaust.
 2. Testkirjad pane eraldi kausta **väljaspool** `ettevotte-aju/`. Neid ära veel kellelegi anna.
 3. **Codex:** ava `ettevotte-aju` kaust Codexis ja kirjuta `Loe AGENTS.md ja alusta eeltööd.`
-4. **ChatGPT:** kui saad anda talle kausta, tee sama. Kui ei saa, ava fail `ettevotte-aju/INTERVJUU.md`, kopeeri kogu sisu ja kleebi uude vestlusesse.
+4. **ChatGPT:** kui saad anda talle kausta, tee sama. Kui ei saa, lisa uuele vestlusele kaustast `ettevotte-aju/` manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `2-ettevote/kes-me-oleme.md`, `3-pakkumine/faktid.md`, `5-haal/kuidas-kirjutame.md` ja `7-tood/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.`
 5. Vasta küsimustele. Kui sul on kodulehel hinnakiri või KKK, kleebi see või saada ekraanipilt, kui jõuate pakkumiseni.
 6. Iga osa lõpus näitab ta faili. Loe läbi, ütle, mida muuta, siis kinnita.
 7. Kui ta ei saa ise salvestada, salvesta iga fail kausta `ettevotte-aju` täpselt sinna, kuhu ta ütles (näiteks `3-pakkumine/faktid.md`). Kontrolli, et failinimi ei lõpe `.md.txt`.

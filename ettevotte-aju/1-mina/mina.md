@@ -1,6 +1,6 @@
 ---
 osa: Mina
-kirjeldus: Omaniku roll, mida otsustab ainult tema, mis sööb nädalast aega ja mida AI-le ei anta.
+kirjeldus: "Omaniku roll, mida otsustab ainult tema, mis sööb nädalast aega ja mida AI-le ei anta."
 seis: tühi
 uuendatud:
 ---

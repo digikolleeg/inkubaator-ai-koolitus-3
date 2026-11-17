@@ -1,6 +1,6 @@
 ---
 osa: Korduvad tööd
-kirjeldus: Iga nädal korduvad tööd, nende ajakulu tundides kuus ja esimene digikolleegi kandidaat.
+kirjeldus: "Iga nädal korduvad tööd, nende ajakulu tundides kuus ja esimene digikolleegi kandidaat."
 seis: tühi
 uuendatud:
 ---

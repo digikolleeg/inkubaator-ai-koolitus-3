@@ -39,13 +39,13 @@ Iga osa faili alguses on frontmatter: lühike kirjeldus, seis ja kuupäev. AI lo
 
 AI küsib ühe küsimuse korraga ja täidab neli osa: ettevõte, pakkumine, hääl ja korduvad tööd. Iga osa lõpus näitab ta faili ja küsib kinnitust. Lõpus saad teada, mitu tundi kuus su korduvad tööd võtavad. Kui tahad pooleli jätta, kirjuta `paus`. Järgmine kord kirjuta `jätka`.
 
-Kui AI ei näe kausta (näiteks ChatGPT veebis), ava `INTERVJUU.md`, kopeeri kogu sisu vestlusesse ja salvesta failid, mida AI näitab, ise õigesse kausta.
+Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `2-ettevote/kes-me-oleme.md`, `3-pakkumine/faktid.md`, `5-haal/kuidas-kirjutame.md` ja `7-tood/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise õigesse kausta.
 
 ## Kolm reeglit
 
 1. **Kliendi andmed välja.** Enne kui kleebid päris kirja, võta välja nimed, telefonid, e-postid, aadressid ja tellimusnumbrid. Juhend: [puhastamine](../andmekaitse/puhastamine.md).
 2. **Mida pole kirjas, seda AI ei tea.** Tühi koht jääb tühjaks ja saab märke „katmata”. Väljamõeldud hind on hullem kui puuduv hind.
-3. **Testkirjad hoia väljaspool seda kausta.** Vali 2–3 kliendikirja, tee puhtaks ja pane kõrvale eraldi kausta. Nendega kontrollid töötoas, kas digikolleeg vastab õigesti. Kui AI on neid juba näinud, test ei loe.
+3. **Testkirjad hoia väljaspool seda kausta.** Vali 3 kliendikirja, tee puhtaks ja pane kõrvale eraldi kausta. Nendega kontrollid töötoas, kas digikolleeg vastab õigesti. Kui AI on neid juba näinud, test ei loe.
 
 ## Pärast töötuba
 

@@ -1,6 +1,6 @@
 ---
 osa: Pakkumine
-kirjeldus: Teenused, hinnad, tingimused ja korduma kippuvad küsimused. Ainus koht, kust digikolleeg hindu võtab.
+kirjeldus: "Teenused, hinnad, tingimused ja korduma kippuvad küsimused. Ainus koht, kust digikolleeg hindu võtab."
 seis: tühi
 uuendatud:
 ---
