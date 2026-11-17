@@ -68,7 +68,7 @@ Mis peab jääma minu otsustada:
 
 Vali üks rada ja püsi selles lõpuni:
 
-- **Oma ettevõte:** eeltöö kaust `minu-digikolleeg/`. Testkirjad kaustas `test/` jäävad AI-st eraldi.
+- **Oma ettevõte:** eeltöö kaust `ettevotte-aju/`. Testkirjad on eraldi kaustas väljaspool seda ja jäävad AI-st eraldi.
 - **Näidisfirma:** Käpakamber või Tööruum. Ehitamiseks Käpakambril Pireti kiri, Tööruumil kiri E1. Testid on kaustas [`testkirjad/`](../testkirjad/).
 
 **Varutee:** eeltööd pole või kirjad on puhastamata → näidisfirma. Päris kirjad ainult puhastatult: [andmekaitse](../andmekaitse/puhastamine.md).
@@ -124,7 +124,7 @@ Salvesta failid enne pausi.
 ## 6. 14:35 · Test → parandus faili → uus vestlus
 
 1. Uus vestlus, värsked failid.
-2. Anna **ainult kliendi tekst**: esimene testkiri, siis teine (Käpakamber K1, K2; Tööruum T1, T2; oma ettevõte `test/` kaustast). Kolmas jääb lõpuprooviks.
+2. Anna **ainult kliendi tekst**: esimene testkiri, siis teine (Käpakamber K1, K2; Tööruum T1, T2; oma ettevõte oma testkirjade kaustast). Kolmas jääb lõpuprooviks.
 3. Salvesta vastused. Hinda ise. Alles siis ava hindamisvõti kaustas [`vastused/`](../vastused/).
 4. Leidsid vea? Kleebi:
 

@@ -2,8 +2,6 @@
 
 Tallinna Ettevõtlusinkubaator, 24. november 2026, kell 13–17.
 
-> MUSTAND 14.11. Heigo vaatab läbi enne, kui repo avalikuks tehakse.
-
 ## Alusta siit
 
 1. **Enne töötuba:** [tee eeltöö](EELTOO.md). Arvesta 30 minutiga.
@@ -37,7 +35,7 @@ Kell 17 oskad ilma juhendajata:
 | [`naidisfirmad/`](naidisfirmad/) | kaks väljamõeldud ettevõtet: Käpakamber (koerasalong) ja Tööruum (IT-hooldus) | jah, ühe firma kaust korraga |
 | [`testkirjad/`](testkirjad/) | näidisfirmade testpöördumised | ainult kirja tekst, ükshaaval |
 | [`vastused/`](vastused/) | testide hindamisvõtmed | **ei**; ava alles pärast vastust |
-| [`mall/`](mall/) | tühi kaust sinu enda digikolleegile | jah, kui oled selle täitnud |
+| [`ettevotte-aju/`](ettevotte-aju/) | sinu ettevõtte aju: seitse osa ja intervjuu, mis need täidab | jah, see on sinu kaust |
 | [`andmekaitse/`](andmekaitse/) | kuidas päris kirjad enne AI-le andmist puhtaks teha | ei |
 | [`logi/`](logi/) | proovi logi, kuhu paned kirja, mis töötas ja mis mitte | ei |
 

@@ -1,7 +1,5 @@
 # Päris kirjad enne AI-le andmist puhtaks
 
-> MUSTAND 14.11. Vajab üle vaatamist enne avaldamist.
-
 Sinu klientide kirjades on isikuandmed. Töötoas neid AI-le ei anta. Hinnad, tingimused ja sinu enda sõnastus jäävad alles: just neid digikolleeg vajab.
 
 ## Võta välja ja asenda

@@ -1,54 +1,26 @@
-# Eeltöö: tee need neli asja enne töötuba
+# Eeltöö: 30 minutit enne töötuba
 
-Arvesta 30 minutiga. Kui midagi jääb pooleli, tule ikka. Ilma eeltööta töötad näidisfirmaga ja jõuad sama kaugele.
+Kui midagi jääb pooleli, tule ikka. Ilma eeltööta töötad näidisfirmaga ja jõuad sama kaugele, aga oma ettevõttega on tulemus kohe kasutatav.
 
-## Valmis tähendab seda
+## 1. Ettevõtte aju (25 min)
 
-Sinu arvutis on üks kaust:
+1. Laadi repo alla (**Code → Download ZIP**) ja paki lahti.
+2. Ava kaust [`ettevotte-aju/`](ettevotte-aju/) ja loe [`LOE-MIND.md`](ettevotte-aju/LOE-MIND.md).
+3. Anna kaust Claude'ile, ChatGPT-le või Codexile. Juhend: [Claude](tootuba/claude.md) · [Codex või ChatGPT](tootuba/codex-chatgpt.md).
+4. Kirjuta: `Loe AGENTS.md ja alusta eeltööd.`
 
-```text
-minu-digikolleeg/
-├── kes-me-oleme.md        mis ettevõte, mida teeb ja mida mitte
-├── kuidas-kirjutame.md    üks-kolm sinu enda saadetud vastust
-├── faktid.md              hinnakiri, KKK või tingimused
-├── test/                  2–3 puhastatud pöördumist; neid AI-le veel ei anta
-└── mustandid/             tühi
-```
+AI küsib ühe küsimuse korraga sinu ettevõtte, pakkumise, hääle ja korduvate tööde kohta. Lõpus saad teada, mitu tundi kuus su korduvad tööd võtavad.
 
-Tühja kausta saad otse repost: [`mall/minu-digikolleeg/`](mall/minu-digikolleeg/).
+Kui AI ei näe kausta, kopeeri faili [`ettevotte-aju/INTERVJUU.md`](ettevotte-aju/INTERVJUU.md) sisu vestlusesse ja salvesta failid, mida AI näitab, ise.
 
-## 1. Proovi, kas AI näeb sinu kausta (10 min)
+## 2. Kaks-kolm testkirja (5 min)
 
-Kasuta Claude'i või Codexit/ChatGPT-d, mida sul juba on. Kontot pole vaja uuesti luua.
-
-1. Tee arvutisse kaust `minu-digikolleeg`.
-2. Ava uus vestlus ja anna talle ligipääs sellele kaustale. Claude: [`tootuba/claude.md`](tootuba/claude.md). Codex või ChatGPT: [`tootuba/codex-chatgpt.md`](tootuba/codex-chatgpt.md).
-3. Kirjuta:
-
-```text
-Tee sellesse kausta fail test.md, kus on üks lause.
-```
-
-4. Ava kaust ise ja vaata, kas `test.md` on seal.
-
-Kui AI ei saa kausta kirjutada, pole hullu. Töötoas kopeerid failid käsitsi. Pane kirja, mis takistas, ja too see töötuppa kaasa.
-
-## 2. Üks infoallikas (5 min)
-
-Kopeeri `faktid.md` faili see, millest su vastused tavaliselt sõltuvad: hinnakiri, KKK, tingimused või tarneajad. Üks allikas piisab. Kui midagi pole kirja pandud, kirjuta paar rida ise.
-
-## 3. Üks-kolm enda saadetud vastust (5 min)
-
-Kopeeri `kuidas-kirjutame.md` faili 1–3 vastust, mille **sina** oled kliendile saatnud. Need õpetavad digikolleegile sinu häält. Võta enne välja kliendi nimi ja kontaktid.
-
-## 4. Kaks-kolm pöördumist testiks (10 min)
-
-Vali üks pöördumise liik, millele vastad tihti: hinnapäring, broneering, kaebus vms. Kopeeri kausta `test/` 2–3 sellist kliendikirja, igaüks eraldi faili.
+Vali 2–3 kliendikirja, millele vastad tihti: hinnapäring, broneering, kaebus vms. Pane need eraldi kausta **väljaspool** `ettevotte-aju/` kausta, igaüks eraldi faili. Neid AI-le enne töötuba ei anta.
 
 **Enne kopeerimist tee need puhtaks:** [`andmekaitse/puhastamine.md`](andmekaitse/puhastamine.md). Lühidalt: nimed, telefonid, e-postid, aadressid ja tellimusnumbrid välja; tervis, võlad ja tülid asenda ühe üldise lausega.
 
-Kui puhastamine pole selge, jäta see samm vahele. Töötoas saad testida näidisfirma kirjadega.
+Kui sul selliseid kirju pole, kirjuta ise kaks kirja, mida ootad klientidelt saavat. Kui puhastamine pole selge, jäta see samm vahele; töötoas saad testida näidisfirma kirjadega.
 
-## Lisa, kui aega jääb: intervjuu
+## Kaasa
 
-Kleebi [`intervjuu/digikolleeg-intervjuu.md`](intervjuu/digikolleeg-intervjuu.md) uude vestlusse ja vasta küsimustele. Tulemuseks on tööjuhis `digikolleeg.md`. Töötoas teeme selle niikuinii; kui oled juba teinud, jõuad kaugemale.
+Sülearvuti ja laadija. Konto, mis sul juba on (Claude, ChatGPT või Codex), sobib.
