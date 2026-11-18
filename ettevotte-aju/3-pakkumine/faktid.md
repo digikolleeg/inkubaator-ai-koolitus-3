@@ -7,7 +7,7 @@ uuendatud:
 
 # Faktid: mida müüme, hinnad, tingimused
 
-Iga fakt ühel real koos allika ja kuupäevaga. Mida pole, märgi: „katmata, küsi omanikult”. See on ainus koht, kust digikolleeg hindu ja tingimusi võtab.
+Kirjuta iga fakt eraldi reale koos allika ja kuupäevaga. Puuduv info märgi: „katmata, küsi omanikult”. Digikolleeg võtab hinnad ja tingimused ainult siit failist.
 
 ## Teenused või tooted
 
@@ -29,4 +29,4 @@ Küsimus ja vastus, mille oled kliendile juba mitu korda andnud:
 
 ## Mida siin ei ole
 
-Asjad, mida kliendid küsivad, aga mille kohta otsust pole. Digikolleeg ei tohi neid arvata.
+Küsimused, mida kliendid küsivad, aga mille kohta ma pole veel otsust teinud. Digikolleeg ei tohi vastust ise välja mõelda.

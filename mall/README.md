@@ -1,3 +1,3 @@
 # Mall
 
-Vana mall. Kasuta kausta [`ettevotte-aju/`](../ettevotte-aju/) ja eeltöö juhist [EELTOO.md](../EELTOO.md).
+See mall on aegunud. Kasuta kausta [`ettevotte-aju/`](../ettevotte-aju/) ja järgi [eeltöö juhist](../EELTOO.md).

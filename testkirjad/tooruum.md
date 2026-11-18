@@ -1,6 +1,6 @@
 # Testkirjad: Tööruum (B2B)
 
-Väljamõeldud saatjad, aadressid `.invalid`. Anna AI-le ainult kirja tekst (`>` read), mitte pealkirja ega seda faili tervikuna. Hindamisvõti on `../vastused/tooruum.md`: ava see alles siis, kui vastus on salvestatud.
+Saatjad on välja mõeldud ja aadressid lõpevad `.invalid`. Anna AI-le ainult kirja tekst (`>` read). Pealkirja ja tervet faili ära anna. Hindamisvõti on `../vastused/tooruum.md`. Ava see alles pärast vastuse salvestamist.
 
 ---
 

@@ -1,7 +1,7 @@
 # Digikolleegid
 
-Iga digikolleeg teeb ühte tööd. Tema juhis on fail `digikolleeg.md` omaette alamkaustas, näiteks `vastaja/digikolleeg.md`.
+Iga digikolleeg teeb ühte tööd. Salvesta tema juhis faili `digikolleeg.md` eraldi alamkaustas, näiteks `vastaja/digikolleeg.md`.
 
-Juhise teed töötoas intervjuuga ([`intervjuu/digikolleeg-intervjuu.md`](../../intervjuu/digikolleeg-intervjuu.md)); ise seda ette kirjutada pole vaja. Juhises on ainult töö kirjeldus, piirid ja failide nimed, mida uus vestlus loeb. Hinnad ja tingimused jäävad faili `3-pakkumine/faktid.md`, et need oleksid kirjas ühes kohas.
+Juhise koostad töötoas intervjuu abil ([`intervjuu/digikolleeg-intervjuu.md`](../../intervjuu/digikolleeg-intervjuu.md)). Seda pole vaja enne valmis kirjutada. Juhises on töö kirjeldus, piirid ja failinimed, mida uus vestlus peab lugema. Hinnad ja tingimused jäävad ühte kohta, faili `3-pakkumine/faktid.md`.
 
 Kui digikolleeg on valmis, lisa ta faili `kaart.md` tabelisse.

@@ -1,6 +1,6 @@
 # Faktid
 
-Iga fakt ühel real koos allika ja kuupäevaga. Mida pole, märgi: „katmata, küsi omanikult”.
+Kirjuta iga fakt eraldi reale koos allika ja kuupäevaga. Puuduv info märgi: „katmata, küsi omanikult”.
 
 | Fakt | Allikas | Kuupäev |
 |---|---|---|

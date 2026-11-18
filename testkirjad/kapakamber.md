@@ -1,6 +1,6 @@
 # Testkirjad: Käpakamber (B2C)
 
-Väljamõeldud saatjad, aadressid `.invalid`. Anna AI-le ainult kirja tekst (`>` read), mitte pealkirja ega seda faili tervikuna. Hindamisvõti on `../vastused/kapakamber.md`: ava see alles siis, kui vastus on salvestatud.
+Saatjad on välja mõeldud ja aadressid lõpevad `.invalid`. Anna AI-le ainult kirja tekst (`>` read). Pealkirja ja tervet faili ära anna. Hindamisvõti on `../vastused/kapakamber.md`. Ava see alles pärast vastuse salvestamist.
 
 ---
 

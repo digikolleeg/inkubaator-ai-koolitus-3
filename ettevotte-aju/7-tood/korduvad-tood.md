@@ -7,7 +7,7 @@ uuendatud:
 
 # Korduvad tööd
 
-Tööd, mida teed iga nädal uuesti peaaegu samamoodi. Pane kirja 3–5. Arvud võivad olla umbkaudsed, aga sinu enda omad.
+Pane kirja 3–5 tööd, mida teed iga nädal peaaegu samamoodi. Hinda ajakulu oma töö järgi, umbkaudsest arvust piisab.
 
 Tundi kuus = kordi nädalas × minutit korraga × 4,3 ÷ 60.
 
@@ -19,12 +19,12 @@ Aste: 0 = teen täiesti ise · 1 = digikolleeg teeb mustandi, mina käivitan · 
 
 ## Kokku
 
-Tundi kuus kõigi ridade peale:
+Kõigi tööde ajakulu kokku tundides kuus:
 
 ## Esimene kandidaat
 
-Hea esimene töö on selline, mida teed tihti, kus viga on kohe näha ja kus halvim tagajärg on väike. Vali üks rida ja kirjuta siia, miks just see:
+Vali alustuseks üks töö, mida teed tihti, mille puhul märkad viga kohe ja mille vea tagajärg on väike. Kirjuta, miks valisid just selle:
 
 ## Veel kandidaate
 
-Korduvad tööd, mis on nimetatud, aga mida pole veel läbi arvutatud:
+Korduvad tööd, mille ajakulu pole veel arvutatud:

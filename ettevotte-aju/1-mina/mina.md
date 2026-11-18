@@ -21,4 +21,4 @@ Töö, mida teen ise, aga ei peaks:
 
 ## Mida ma AI-le ei anna
 
-Teemad, kliendid või andmed, mis jäävad AI-st välja:
+Teemad, kliendid või andmed, mida ma AI-le ei anna:

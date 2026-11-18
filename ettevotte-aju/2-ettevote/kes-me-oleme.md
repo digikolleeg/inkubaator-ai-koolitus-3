@@ -19,11 +19,11 @@ Tööd ja kliendid, kellele ütleme ei:
 
 ## Kes veel töötab
 
-Roll ja mille eest vastutab. Nimesid pole vaja.
+Igaühe roll ja vastutus. Nimesid pole vaja.
 
 ## Otsused, mis on minu teha
 
-Vastuolud ja küsimused, millele mul veel vastust pole:
+Vastuolud ja küsimused, mille pean ise lahendama:
 
 ## Tööpiirid digikolleegile
 

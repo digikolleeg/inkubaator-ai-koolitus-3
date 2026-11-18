@@ -7,7 +7,7 @@ uuendatud:
 
 # Süsteemid
 
-Paroole, võtmeid ega sisselogimise andmeid siia ei kirjutata.
+Ära kirjuta siia paroole, võtmeid ega sisselogimisandmeid.
 
 ## Mis tööriistad meil on
 
@@ -28,4 +28,4 @@ Kui klient küsib hinda, tellimuse seisu või vaba aega, siis kust sa vastuse v�
 
 ## Mida kopeerin käsitsi ühest kohast teise
 
-Iga rida siin on korduva töö kandidaat. Kanna see ka faili `7-tood/korduvad-tood.md`.
+Iga siin nimetatud töö võib sobida digikolleegile. Kanna see ka faili `7-tood/korduvad-tood.md`.

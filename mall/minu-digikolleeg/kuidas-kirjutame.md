@@ -5,4 +5,4 @@ Tervitus ja lõpp:
 
 ## Minu enda saadetud vastused
 
-Kleebi siia 1–3 vastust, mille oled ise kliendile saatnud. Kliendi nimi ja kontaktid välja.
+Kopeeri siia 1–3 vastust, mille oled ise kliendile saatnud. Eemalda kliendi nimi ja kontaktid.

@@ -1,6 +1,6 @@
 # Faktid: Käpakamber
 
-NÄIDISFIRMA. KÕIK HINNAD JA TINGIMUSED ON VÄLJAMÕELDUD NÄITED. Seisuga 2026-11-08. Ühtegi neist ei kasutata päris klientidele.
+NÄIDISFIRMA. KÕIK HINNAD JA TINGIMUSED ON VÄLJAMÕELDUD NÄITED. Seisuga 2026-11-08. Neid ei kasutata päris klientidele vastamisel.
 
 ## Lahtiolekuajad
 
@@ -23,13 +23,13 @@ Klass määratakse kaalu järgi, mitte tõu järgi.
 
 - Pügamise hind **sisaldab** pesu ja kuivatust. Pesu ei lisata eraldi.
 - Küünelõikus eraldi 8 €. Koos pesu või pügamisega 5 €.
-- Tugevalt sassis karva lahtiharimine: +10 € iga alustatud 15 minuti eest. Pügaja hindab kohapeal ja ütleb enne tööd, mitu lisaühikut tuleb.
+- Tugevalt sassis karva lahtiharimine: +10 € iga alustatud 15 minuti eest. Pügaja hindab kohapeal ja ütleb enne tööd, mitme alustatud veerandtunni eest lisatasu tuleb.
 
 ## Kestus
 
 - Pesu ja kuivatus: 1 kuni 1,5 tundi.
 - Pügamine: 2 kuni 3 tundi.
-- Koera ei pea ootama. Võib ära minna, saadame SMS-i, kui koer on valmis.
+- Koera ei pea kohapeal ootama. Võib ära minna, saadame SMS-i, kui koer on valmis.
 
 ## Broneerimine
 
@@ -41,7 +41,7 @@ Klass määratakse kaalu järgi, mitte tõu järgi.
 ## Koera nõuded
 
 - Vähemalt 4 kuud vana.
-- Kehtiv marutaudi ja kennelköha vaktsineerimine. Vaktsineerimispass võetakse esimesel korral kaasa.
+- Marutaudi ja kennelköha vaktsiinid peavad kehtima. Esimesel korral tuleb vaktsineerimispass kaasa võtta.
 - Kasse ja teisi loomi ei võta.
 - Agressiivne koer: ainult eelneva kokkuleppega, otsustab Liisi.
 

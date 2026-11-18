@@ -1,10 +1,11 @@
 # Sisend
 
-Siia pane toormaterjal, millest ettevõtte aju täita: hinnakiri, KKK, vanad pakkumised, tingimused, koosoleku märkmed, ekraanipildid. Ei pea korrastama ega ümber nimetama.
+Pane siia materjal, mille põhjal ettevõtte aju täita: hinnakiri, KKK, vanad pakkumised, tingimused, koosolekumärkmed ja ekraanipildid. Neid ei pea enne korrastama ega ümber nimetama.
 
-AI loeb siit, kui palud („vaata sisendit ja paku, mida pakkumise osasse lisada”). Faktiks saab see alles siis, kui oled osa faili kinnitanud. Sisendi faile AI ei muuda.
+AI loeb siit, kui palud: „Vaata sisendit ja paku, mida pakkumise osasse lisada.” Info võetakse kasutusele alles siis, kui oled seda sisaldava osa faili kinnitanud. Siinseid faile AI ei muuda.
 
-Siia ei käi:
-- **testkirjad**: need hoia väljaspool ettevõtte aju kausta, muidu näeb AI vastust enne testi;
-- paroolid, võtmed ja sisselogimise andmed;
-- kliendi nimed, telefonid, e-postid ja aadressid (juhend: [puhastamine](../../andmekaitse/puhastamine.md), asub repo juures, mitte selles kaustas).
+Siia ära pane:
+
+- **testkirju**: hoia neid väljaspool ettevõtte aju kausta, et AI ei näeks kirju enne testi;
+- paroole, võtmeid ega sisselogimisandmeid;
+- klientide nimesid, telefone, e-posti aadresse ega aadresse (juhend [puhastamine](../../andmekaitse/puhastamine.md) asub repo juures, väljaspool seda kausta).

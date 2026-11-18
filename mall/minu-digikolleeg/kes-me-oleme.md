@@ -1,6 +1,6 @@
 # Kes me oleme
 
-Mis ettevõte, kellele, mida teeme ja mida mitte.
+Kirjelda ettevõtet: kellele pakume, mida teeme ja mida ei tee.
 
 ## Tööpiirid digikolleegile
 

@@ -7,7 +7,7 @@ uuendatud:
 
 # Kliendid
 
-Ilma nimede ja kontaktideta. Kirjelda tüüpi, mitte inimest.
+Kirjelda, millised on sinu kliendid. Jäta konkreetsete inimeste nimed ja kontaktid välja.
 
 ## Tüüpiline klient
 

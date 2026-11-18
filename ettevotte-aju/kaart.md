@@ -1,6 +1,6 @@
 # Ettevõtte aju kaart
 
-Iga osa seis on üks kolmest: `tühi`, `pooleli`, `kinnitatud`. Kinnitatud tähendab, et omanik on faili läbi lugenud ja öelnud „jah”.
+Iga osa seis on `tühi`, `pooleli` või `kinnitatud`. Märgi osa kinnitatuks, kui omanik on faili läbi lugenud ja öelnud „jah”.
 
 ## Osad
 
@@ -28,4 +28,4 @@ Mis osa või töö tuleb järgmisena:
 
 ## Logi
 
-Uusim üleval. Üks rida iga kinnitatud muudatuse kohta: kuupäev · osa · mis muutus.
+Lisa iga kinnitatud muudatuse kohta üks rida: kuupäev · osa · mis muutus. Uusim muudatus pane kõige üles.

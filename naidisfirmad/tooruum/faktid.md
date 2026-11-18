@@ -1,6 +1,6 @@
 # Faktid: Tööruum
 
-NÄIDISFIRMA. KÕIK HINNAD JA TINGIMUSED ON VÄLJAMÕELDUD NÄITED. Seisuga 2026-11-08. Ühtegi neist ei kasutata päris klientidele.
+NÄIDISFIRMA. KÕIK HINNAD JA TINGIMUSED ON VÄLJAMÕELDUD NÄITED. Seisuga 2026-11-08. Neid ei kasutata päris klientidele vastamisel.
 
 ## Piirkond ja tööaeg
 
@@ -25,12 +25,12 @@ Tallinn ja Harjumaa. Tööaeg esmaspäevast reedeni 9.00 kuni 17.00. Tööajavä
 ## Muud hinnad (käibemaksuta)
 
 - Üksiktöö: 55 € tund, minimaalselt 1 tund.
-- Kohalesõit Tallinnas tasuta. Harjumaal 20 € käik üksiktööle ja Tavalise paketi lisakäikudele. Täis paketis ja Tavalise paketi 2 käigu piires Harjumaa sõidutasu ei lisandu.
+- Kohalesõit Tallinnas tasuta. Harjumaal maksab kohalesõit 20 € käigu kohta üksiktööde ja Tavalise paketi lisakäikude puhul. Täis paketis ja Tavalise paketi 2 käigu piires Harjumaa sõidutasu ei lisandu.
 - Esmane kaardistus (1 tund, tasuta uuele kliendile): ülevaade seadmetest ja kontodest.
 
 ## Tähtajad
 
-Pakkumisele vastame 2 tööpäeva jooksul alates kõigi vajalike andmete saamisest.
+Vastame pakkumispäringule 2 tööpäeva jooksul pärast kõigi vajalike andmete saamist.
 
 ## Pakkumiseks vajalik info
 
@@ -46,7 +46,7 @@ Allahindluse, erandhinna ja lepingutingimuste muutmise otsustab ainult Marko. Fa
 **Kas hooldate Macide riistvara?** Ei. Kontodes ja Microsoft 365 / Google Workspace'is aitame.
 **Kas esmane kaardistus on tasuta?** Jah, 1 tund uuele kliendile.
 **Kas on tööajaväline tugi?** Tavalepingus ei ole. Küsimuse korral otsustab Marko.
-**Kui kiiresti vastate pakkumisele?** 2 tööpäeva jooksul alates kõigi vajalike andmete saamisest.
+**Kui kiiresti vastate pakkumisele?** 2 tööpäeva jooksul pärast kõigi vajalike andmete saamist.
 
 ## Mida failis ei ole (agent ei tohi arvata)
 

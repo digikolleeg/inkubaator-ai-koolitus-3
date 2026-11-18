@@ -1,6 +1,6 @@
 # Päris kirjad enne AI-le andmist puhtaks
 
-Sinu klientide kirjades on isikuandmed. Töötoas neid AI-le ei anta. Hinnad, tingimused ja sinu enda sõnastus jäävad alles: just neid digikolleeg vajab.
+Enne kui annad kliendikirja AI-le, eemalda sellest isikuandmed. Hinnad, tingimused ja sinu enda sõnastus jäta alles, sest neid digikolleeg vajab.
 
 ## Võta välja ja asenda
 
@@ -13,17 +13,13 @@ Sinu klientide kirjades on isikuandmed. Töötoas neid AI-le ei anta. Hinnad, ti
 | tellimuse, arve või lepingu number | `[TELLIMUS]` |
 | kliendi ettevõtte nimi, kui see tuvastab inimese | `[FIRMA]` |
 
-## Asenda ühe üldise lausega
-
-Tervis, lapsed, võlad, tülid, kohtuasjad, töösuhted ja kliendi äriinfo. Näide: „Koer on pärast operatsiooni ja võtab ravimeid” → „Koeral on terviseprobleem, mis mõjutab teenust.”
-
 ## Ära too üldse
 
-- kirjad, mida ei saa puhtaks teha ilma, et sisu kaoks;
-- eriliigilised andmed (tervis, usk, rahvus, karistused), isegi puhastatult, kui juhtum on äratuntav;
+- kirjad, mille sisu läheb isikuandmete eemaldamisel kaduma;
+- eriliigilised andmed (tervis, usk, rahvus, karistused), ka puhastatult, kui juhtum on äratuntav;
 - kolmandate isikute kirjad, mis sulle edasi saadeti.
 
-Kahtluse korral kasuta näidisfirma kirja. Näidisfirmaga õpid sama asja.
+Kui kahtled, kasuta näidisfirma kirja. Saad samad sammud läbi teha.
 
 ## Kuhu päris materjal ei lähe
 
@@ -33,8 +29,8 @@ Kahtluse korral kasuta näidisfirma kirja. Näidisfirmaga õpid sama asja.
 
 ## Sinu AI-konto
 
-Vaata oma konto seadetest, kas vestlusi kasutatakse mudeli treenimiseks, ja otsusta ise. Töö- ja klienditeabega töötades lülita see välja, kui sinu konto seda lubab.
+Vaata konto seadetest, kas sinu vestlusi kasutatakse mudeli treenimiseks, ja otsusta, kas lubad seda. Töö- ja klienditeabe puhul lülita see välja, kui sinu konto seda võimaldab.
 
 ## Kontroll enne kleepimist
 
-Loe tekst üle ja küsi: kas keegi peale minu tunneks selle kliendi ära? Kui jah, puhasta veel.
+Loe tekst üle. Kas keegi peale sinu tunneks kliendi ära? Kui jah, eemalda ka need üksikasjad.

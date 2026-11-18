@@ -1,6 +1,6 @@
 # Eeltöö: 30 minutit enne töötuba
 
-Kui midagi jääb pooleli, tule ikka. Ilma eeltööta töötad näidisfirmaga ja jõuad sama kaugele, aga oma ettevõttega on tulemus kohe kasutatav.
+Kui eeltöö jääb pooleli, tule ikka. Saad harjutada näidisfirmaga ja teha samad sammud läbi. Oma ettevõttega töötades saad tulemust kohe kasutada.
 
 ## 1. Ettevõtte aju (25 min)
 
@@ -9,18 +9,18 @@ Kui midagi jääb pooleli, tule ikka. Ilma eeltööta töötad näidisfirmaga ja
 3. Anna kaust Claude'ile, ChatGPT-le või Codexile. Juhend: [Claude](tootuba/claude.md) · [Codex või ChatGPT](tootuba/codex-chatgpt.md).
 4. Kirjuta: `Loe AGENTS.md ja alusta eeltööd.`
 
-AI küsib ühe küsimuse korraga sinu ettevõtte, pakkumise, hääle ja korduvate tööde kohta. Lõpus saad teada, mitu tundi kuus su korduvad tööd võtavad.
+AI küsib sinu ettevõtte, pakkumise, hääle ja korduvate tööde kohta, ühe küsimuse korraga. Lõpus näed, mitu tundi kuus need tööd võtavad.
 
 Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele kaustast `ettevotte-aju/` manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `2-ettevote/kes-me-oleme.md`, `3-pakkumine/faktid.md`, `5-haal/kuidas-kirjutame.md` ja `7-tood/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise samasse kausta.
 
 ## 2. Kolm testkirja (5 min)
 
-Vali 3 kliendikirja, millele vastad tihti: hinnapäring, broneering, kaebus vms. Pane need eraldi kausta **väljaspool** `ettevotte-aju/` kausta, igaüks eraldi faili. Neid AI-le enne töötuba ei anta.
+Vali 3 kliendikirja, mille sarnastele vastad tihti: hinnapäring, broneering, kaebus vms. Salvesta iga kiri eraldi faili ja hoia neid **väljaspool** `ettevotte-aju/` kausta. Enne töötuba ära neid AI-le anna.
 
-**Enne kopeerimist tee need puhtaks:** [`andmekaitse/puhastamine.md`](andmekaitse/puhastamine.md). Lühidalt: nimed, telefonid, e-postid, aadressid ja tellimusnumbrid välja; tervis, võlad ja tülid asenda ühe üldise lausega.
+**Enne kopeerimist tee kirjad puhtaks:** [`andmekaitse/puhastamine.md`](andmekaitse/puhastamine.md). Võta välja nimed, telefonid, e-posti aadressid, aadressid ja tellimusnumbrid. Tervise, võlgade või tülide üksikasjade asemel kirjuta üks üldine lause.
 
-Kui sul selliseid kirju on vähem, kirjuta puuduolevad ise: kirjad, mida ootad klientidelt saavat. Kui puhastamine pole selge, jäta see samm vahele; töötoas saad testida näidisfirma kirjadega.
+Kui kirju on vähem, kirjuta puuduvad ise. Mõtle, mida kliendid sinult tõenäoliselt küsivad. Kui sa ei tea, mida kirjast eemaldada, jäta see samm vahele. Töötoas saad kasutada näidisfirma kirju.
 
 ## Kaasa
 
-Sülearvuti ja laadija. Konto, mis sul juba on (Claude, ChatGPT või Codex), sobib.
+Võta kaasa sülearvuti ja laadija. Sobib olemasolev Claude'i, ChatGPT või Codexi konto.

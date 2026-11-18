@@ -1,6 +1,6 @@
 # Proovi logi
 
-Hoia see fail AI töökaustast väljas. Paroole ega isikuandmeid pole vaja kirja panna.
+Hoia see fail väljaspool AI töökausta. Paroole ega isikuandmeid pole siin vaja.
 
 ```text
 Kuupäev:

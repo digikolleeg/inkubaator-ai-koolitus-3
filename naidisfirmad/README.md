@@ -1,6 +1,6 @@
 # Näidisfirmad
 
-Kaks väljamõeldud ettevõtet, et ka eeltööta saaksid kohe päris sammu teha. Kõik nimed, hinnad ja tingimused on välja mõeldud. `.invalid` aadressid ja lingid ei tööta.
+Kui sul eeltööd pole, saad harjutada ühega neist kahest ettevõttest. Mõlemad on välja mõeldud, samuti kõik nimed, hinnad ja tingimused. `.invalid` aadressid ja lingid ei tööta.
 
 | Kaust | Ettevõte | Omanik |
 |---|---|---|
@@ -9,8 +9,8 @@ Kaks väljamõeldud ettevõtet, et ka eeltööta saaksid kohe päris sammu teha.
 
 Kummaski kaustas on kolm faili, mille võid AI-le anda:
 
-- `kes-me-oleme.md`: mis ettevõte, mida teeb ja ei tee, tööpiirid agendile;
-- `kuidas-kirjutame.md`: hääl, sinatamine või teietamine, tooninäited;
+- `kes-me-oleme.md`: mida ettevõte teeb ja ei tee ning mida agent tohib;
+- `kuidas-kirjutame.md`: kuidas ettevõte klientidele kirjutab, kas sinatab või teietab, vastuste näited;
 - `faktid.md`: hinnad, tingimused, KKK ja loetelu sellest, mida failis pole.
 
 Testpöördumised on eraldi kaustas [`../testkirjad/`](../testkirjad/), hindamisvõtmed kaustas [`../vastused/`](../vastused/). Kumbagi ära pane AI töökausta.
@@ -26,4 +26,4 @@ Testpöördumised on eraldi kaustas [`../testkirjad/`](../testkirjad/), hindamis
 
 ## Kui sul on oma ettevõte
 
-Kasuta neid faile kuju eeskujuks, mitte sisuks. Näidisfirma hinnad ei lähe sinu faktidesse.
+Võta neist failidest eeskujuks ülesehitus. Oma ettevõtte failidesse kirjuta oma info, näidisfirma hindu ära kopeeri.
