@@ -9,7 +9,7 @@ Kui sul eeltööd pole, saad harjutada ühega neist kahest ettevõttest. Mõlema
 
 Kummaski kaustas on kolm faili, mille võid AI-le anda:
 
-- `kes-me-oleme.md`: mida ettevõte teeb ja ei tee ning mida agent tohib;
+- `kes-me-oleme.md`: mida ettevõte teeb ja ei tee ning mida digikolleeg tohib;
 - `kuidas-kirjutame.md`: kuidas ettevõte klientidele kirjutab, kas sinatab või teietab, vastuste näited;
 - `faktid.md`: hinnad, tingimused, KKK ja loetelu sellest, mida failis pole.
 

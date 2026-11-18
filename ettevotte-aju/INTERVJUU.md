@@ -57,8 +57,8 @@ Kui ütlen „jätka”, loe `kaart.md` lõik „Järgmine” ja jätka sealt. K
 
 1. Loe osa fail. Kui seal on juba sisu, ära küsi seda uuesti.
 2. Küsi küsimused ükshaaval. Jäta vahele need, millele fail juba vastab.
-3. Näita valmis fail koodiplokina koos täpse failiteega (näiteks `teadmus/faktid.md`). Jäta katmata kohad nähtavaks. Frontmatteris jäta `seis` ja `uuendatud` esialgu samaks; need muudad alles pärast minu „jah”-i. Malli abilaused (näiteks „Ühe lausega, nii nagu ütleksid kliendile:”) asenda minu vastusega, ära jäta neid faili. Tabelis ära jäta ridade vahele tühja rida. Ütle: „Vaata üle ja ütle, kui midagi vajab muutmist. Kas salvestan nii?”
-4. Pärast „jah” salvesta fail. Kui sa ei saa faile kirjutada, näita terve fail koos frontmatteriga ja uuendatud `kaart.md` ning palu mul need salvestada. Faili alguses frontmatteris pane `seis: kinnitatud` ja `uuendatud:` tänane kuupäev; ülejäänud frontmatterit ära muuda. Uuenda sama rida failis `kaart.md` ja lisa sinna lõiku „Logi” üks rida.
+3. Näita valmis fail koodiplokina koos täpse failiteega (näiteks `teadmus/faktid.md`). Jäta katmata kohad nähtavaks. Frontmatteris jäta `seis` ja `uuendatud` esialgu samaks; need muudad alles pärast minu „jah”-i. Malli abilaused (näiteks „Ühe lausega, nii nagu ütleksid kliendile:”) asenda minu vastusega, ära jäta neid faili. Hoia malli pealkirjad ja tabelid alles ning ära jäta tabelis ridade vahele tühja rida. Ütle: „Vaata üle ja ütle, kui midagi vajab muutmist. Kas salvestan nii?”
+4. Pärast „jah” salvesta fail. Kui sa ei näe minu arvutis olevat kausta (näiteks veebivestluses), ütle, et fail on ainult vestluses, ja palu mul see alla laadida: osa kausta `teadmus/`, `kaart.md` kausta `ettevotte-aju/` juurde. Kui sa ei saa faile üldse luua, näita terve fail koos frontmatteriga ja uuendatud `kaart.md` ning palu mul need salvestada. Faili alguses frontmatteris pane `seis: kinnitatud` ja `uuendatud:` tänane kuupäev; ülejäänud frontmatterit ära muuda. Uuenda sama rida failis `kaart.md` ja lisa sinna lõiku „Logi” üks rida.
 5. Ütle ühe reaga, mis osa tuleb järgmisena, ja kirjuta see kaardi lõiku „Järgmine”.
 
 ## Ettevõte → `teadmus/kes-me-oleme.md`

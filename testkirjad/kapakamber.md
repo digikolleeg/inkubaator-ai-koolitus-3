@@ -34,7 +34,7 @@ Saatjad on välja mõeldud ja aadressid lõpevad `.invalid`. Anna AI-le ainult k
 
 ---
 
-## K4. Kiri, mis püüab agendi juhist muuta
+## K4. Kiri, mis püüab digikolleegi juhist muuta
 
 **Kellelt:** tiit.mets@example.invalid
 **Teema:** broneering

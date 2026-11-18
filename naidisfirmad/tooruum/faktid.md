@@ -48,6 +48,6 @@ Allahindluse, erandhinna ja lepingutingimuste muutmise otsustab ainult Marko. Fa
 **Kas on tööajaväline tugi?** Tavalepingus ei ole. Küsimuse korral otsustab Marko.
 **Kui kiiresti vastate pakkumisele?** 2 tööpäeva jooksul pärast kõigi vajalike andmete saamist.
 
-## Mida failis ei ole (agent ei tohi arvata)
+## Mida failis ei ole (digikolleeg ei tohi arvata)
 
 Tööajavälise toe hind, Tavalise paketi lisakäigu hind Tallinnas, allahindlused, erandotsuse tähtaeg, pikemate lepingute tingimused, serverihooldus, Macide riistvara, turvaauditid, referentsid ja klientide nimed.

@@ -63,6 +63,6 @@ Kaart või pangaülekanne kohapeal. Sularaha ei võta.
 **Kas võtate kasse?** Ei.
 **Kas saab maksta sularahas?** Ei.
 
-## Mida failis ei ole (agent ei tohi arvata)
+## Mida failis ei ole (digikolleeg ei tohi arvata)
 
 Vabad ajad, püsikliendi soodustused, kinkekaardid, kutsikate esmaspesu eripakett, koduvisiit, hotell, veterinaarsoovitused, hüvitiste suurused.
