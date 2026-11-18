@@ -11,7 +11,7 @@ Kui eeltöö jääb pooleli, tule ikka. Saad harjutada näidisfirmaga ja teha sa
 
 AI küsib sinu ettevõtte, pakkumise, hääle ja korduvate tööde kohta, ühe küsimuse korraga.
 
-Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele kaustast `ettevotte-aju/` manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `2-ettevote/kes-me-oleme.md`, `3-pakkumine/faktid.md`, `5-haal/kuidas-kirjutame.md` ja `7-tood/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise samasse kausta.
+Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele kaustast `ettevotte-aju/` manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `teadmus/kes-me-oleme.md`, `teadmus/faktid.md`, `teadmus/kuidas-kirjutame.md` ja `teadmus/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise õigesse kohta: osad kausta `teadmus/`, `kaart.md` kausta `ettevotte-aju/` juurde.
 
 ## 2. Kolm testkirja (5 min)
 

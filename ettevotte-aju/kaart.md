@@ -6,13 +6,13 @@ Iga osa seis on `tühi`, `pooleli` või `kinnitatud`. Märgi osa kinnitatuks, ku
 
 | Osa | Fail | Seis | Uuendatud |
 |---|---|---|---|
-| 1 Mina | `1-mina/mina.md` | tühi | |
-| 2 Ettevõte | `2-ettevote/kes-me-oleme.md` | tühi | |
-| 3 Pakkumine | `3-pakkumine/faktid.md` | tühi | |
-| 4 Kliendid | `4-kliendid/kliendid.md` | tühi | |
-| 5 Hääl | `5-haal/kuidas-kirjutame.md` | tühi | |
-| 6 Süsteemid | `6-susteemid/susteemid.md` | tühi | |
-| 7 Korduvad tööd | `7-tood/korduvad-tood.md` | tühi | |
+| 1 Mina | `teadmus/mina.md` | tühi | |
+| 2 Ettevõte | `teadmus/kes-me-oleme.md` | tühi | |
+| 3 Pakkumine | `teadmus/faktid.md` | tühi | |
+| 4 Kliendid | `teadmus/kliendid.md` | tühi | |
+| 5 Hääl | `teadmus/kuidas-kirjutame.md` | tühi | |
+| 6 Süsteemid | `teadmus/susteemid.md` | tühi | |
+| 7 Korduvad tööd | `teadmus/korduvad-tood.md` | tühi | |
 
 ## Digikolleegid
 
@@ -28,4 +28,4 @@ Mis osa või töö tuleb järgmisena:
 
 ## Logi
 
-Lisa iga kinnitatud muudatuse kohta üks rida: kuupäev · osa · mis muutus. Uusim muudatus pane kõige üles.
+Lisa iga kinnitatud muudatuse kohta üks rida kujul `- kuupäev · osa · mis muutus`. Uusim muudatus pane kõige üles.

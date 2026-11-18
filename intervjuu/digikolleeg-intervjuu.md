@@ -29,7 +29,7 @@ Küsi, kas mul on juba failid. Kui need vestlusesse kleebin, näita, milline fai
 | Roll | Kui mul on | Või |
 |---|---|---|
 | ettevõte | `kes-me-oleme.md` | `identity.md` |
-| piirid | `kes-me-oleme.md` → Tööpiirid agendile | `digikolleeg.md` |
+| piirid | `kes-me-oleme.md` → Tööpiirid digikolleegile | `digikolleeg.md` |
 | hääl | `kuidas-kirjutame.md` | `communication-style.md` + `writing-samples.md` |
 | faktid | `faktid.md` | `faktileht.md` |
 

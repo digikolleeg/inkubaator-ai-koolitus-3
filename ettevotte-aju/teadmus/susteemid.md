@@ -28,4 +28,4 @@ Kui klient küsib hinda, tellimuse seisu või vaba aega, siis kust sa vastuse v�
 
 ## Mida kopeerin käsitsi ühest kohast teise
 
-Iga siin nimetatud töö võib sobida digikolleegile. Kanna see ka faili `7-tood/korduvad-tood.md`.
+Iga siin nimetatud töö võib sobida digikolleegile. Kanna see ka faili `teadmus/korduvad-tood.md`.

@@ -6,15 +6,17 @@ Kaustas on tavalised tekstifailid sinu arvutis. Neid saad kasutada Claude'i ja C
 
 ## Seitse osa
 
-| Kaust | Mis seal on | Enne töötuba |
+Seitse osa on kaustas `teadmus/`, iga osa üks fail.
+
+| Fail | Mis seal on | Enne töötuba |
 |---|---|---|
-| `1-mina/` | sinu roll, mida otsustad ainult sina | hiljem |
-| `2-ettevote/` | mida ettevõte teeb, kellele, mida ei tee, tööpiirid AI-le | **jah** |
-| `3-pakkumine/` | mida müüd, hinnad, tingimused | **jah** |
-| `4-kliendid/` | kes ostab, mida küsib, miks loobub | hiljem |
-| `5-haal/` | kuidas kirjutad, sinu enda saadetud vastused | **jah** |
-| `6-susteemid/` | mis tööriistad sul on ja mida kopeerid käsitsi ühest teise | hiljem |
-| `7-tood/` | iga nädal korduvad tööd ja nende ajakulu | **jah** |
+| `mina.md` | sinu roll, mida otsustad ainult sina | hiljem |
+| `kes-me-oleme.md` | mida ettevõte teeb, kellele, mida ei tee, tööpiirid AI-le | **jah** |
+| `faktid.md` | mida müüd, hinnad, tingimused | **jah** |
+| `kliendid.md` | kes ostab, mida küsib, miks loobub | hiljem |
+| `kuidas-kirjutame.md` | kuidas kirjutad, sinu enda saadetud vastused | **jah** |
+| `susteemid.md` | mis tööriistad sul on ja mida kopeerid käsitsi ühest teise | hiljem |
+| `korduvad-tood.md` | iga nädal korduvad tööd ja nende ajakulu | **jah** |
 
 Failist `kaart.md` näed, millised osad on täidetud ja mis viimati muutus. Kausta `sisend/` pane hinnakiri, märkmed ja vanad pakkumised. Töötoas valmiv tööjuhis läheb kausta `digikolleegid/` ning AI kirjutatud mustandid kausta `mustandid/`.
 
@@ -25,7 +27,7 @@ Kaust järgib Andrej Karpathy „LLM wiki” ülesehitust:
 | Kiht | Siin | Mis see on |
 |---|---|---|
 | toormaterjal | `sisend/` | sinu lisatud materjal; AI loeb, aga ei muuda |
-| teadmus | seitse osa | kontrollitud tekst, mille oled kinnitanud |
+| teadmus | `teadmus/` | kontrollitud tekst, mille oled kinnitanud |
 | sisukord ja logi | `kaart.md` | mis on täidetud, mis muutus |
 | reeglid | `AGENTS.md` (`CLAUDE.md` suunab sinna) | kuidas AI kausta kasutab |
 
@@ -39,7 +41,7 @@ Iga osa faili alguses on lühike kirjeldus, seis ja kuupäev. Seda plokki nimeta
 
 AI küsib ühe küsimuse korraga ja täidab neli osa: ettevõte, pakkumine, hääl ja korduvad tööd. Iga osa lõpus näitab ta faili ja küsib kinnitust. Lõpus näed, mitu tundi kuus su korduvad tööd võtavad. Kui tahad pooleli jätta, kirjuta `paus`. Järgmine kord kirjuta `jätka`.
 
-Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `2-ettevote/kes-me-oleme.md`, `3-pakkumine/faktid.md`, `5-haal/kuidas-kirjutame.md` ja `7-tood/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise õigesse kausta.
+Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `teadmus/kes-me-oleme.md`, `teadmus/faktid.md`, `teadmus/kuidas-kirjutame.md` ja `teadmus/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise õigesse kohta: osad kausta `teadmus/`, `kaart.md` kausta juurde.
 
 ## Kolm reeglit
 
@@ -49,4 +51,4 @@ Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele manusena kuus f
 
 ## Pärast töötuba
 
-Täida ülejäänud osad omas tempos. Failis `7-tood/korduvad-tood.md` kirja pandud tööde seast saad valida järgmise töö, mida digikolleegile anda.
+Täida ülejäänud osad omas tempos. Failis `teadmus/korduvad-tood.md` kirja pandud tööde seast saad valida järgmise töö, mida digikolleegile anda.

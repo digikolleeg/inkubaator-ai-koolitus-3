@@ -1,7 +1,7 @@
 # Ettevõtte aju intervjuu
 
 Kui AI näeb seda kausta, kirjuta talle: `Loe AGENTS.md ja alusta eeltööd.`
-Kui ei näe (näiteks ChatGPT veebis), lisa vestlusele manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `2-ettevote/kes-me-oleme.md`, `3-pakkumine/faktid.md`, `5-haal/kuidas-kirjutame.md` ja `7-tood/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` AI näitab iga valmis faili ja uuendatud kaardi ning sina salvestad need ise samasse kausta.
+Kui ei näe (näiteks ChatGPT veebis), lisa vestlusele manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `teadmus/kes-me-oleme.md`, `teadmus/faktid.md`, `teadmus/kuidas-kirjutame.md` ja `teadmus/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` AI näitab iga valmis faili ja uuendatud kaardi ning sina salvestad need ise õigesse kohta: osad kausta `teadmus/`, `kaart.md` kausta juurde.
 
 ---
 
@@ -57,11 +57,11 @@ Kui ütlen „jätka”, loe `kaart.md` lõik „Järgmine” ja jätka sealt. K
 
 1. Loe osa fail. Kui seal on juba sisu, ära küsi seda uuesti.
 2. Küsi küsimused ükshaaval. Jäta vahele need, millele fail juba vastab.
-3. Näita valmis fail koodiplokina koos täpse failinimega. Jäta katmata kohad nähtavaks. Frontmatteris jäta `seis` ja `uuendatud` esialgu samaks; need muudad alles pärast minu „jah”-i. Malli abilaused (näiteks „Ühe lausega, nii nagu ütleksid kliendile:”) asenda minu vastusega, ära jäta neid faili. Tabelis ära jäta ridade vahele tühja rida. Ütle: „Vaata üle ja ütle, kui midagi vajab muutmist. Kas salvestan nii?”
+3. Näita valmis fail koodiplokina koos täpse failiteega (näiteks `teadmus/faktid.md`). Jäta katmata kohad nähtavaks. Frontmatteris jäta `seis` ja `uuendatud` esialgu samaks; need muudad alles pärast minu „jah”-i. Malli abilaused (näiteks „Ühe lausega, nii nagu ütleksid kliendile:”) asenda minu vastusega, ära jäta neid faili. Tabelis ära jäta ridade vahele tühja rida. Ütle: „Vaata üle ja ütle, kui midagi vajab muutmist. Kas salvestan nii?”
 4. Pärast „jah” salvesta fail. Kui sa ei saa faile kirjutada, näita terve fail koos frontmatteriga ja uuendatud `kaart.md` ning palu mul need salvestada. Faili alguses frontmatteris pane `seis: kinnitatud` ja `uuendatud:` tänane kuupäev; ülejäänud frontmatterit ära muuda. Uuenda sama rida failis `kaart.md` ja lisa sinna lõiku „Logi” üks rida.
 5. Ütle ühe reaga, mis osa tuleb järgmisena, ja kirjuta see kaardi lõiku „Järgmine”.
 
-## Ettevõte → `2-ettevote/kes-me-oleme.md`
+## Ettevõte → `teadmus/kes-me-oleme.md`
 
 1. „Mida su ettevõte teeb? Ütle nii, nagu ütleksid kliendile.”
 2. „Kes on su klient?”
@@ -76,7 +76,7 @@ Kui ütlen „jätka”, loe `kaart.md` lõik „Järgmine” ja jätka sealt. K
 
 Vastused 6, 7 ja 8 lähevad lõiku „Tööpiirid digikolleegile”.
 
-## Pakkumine → `3-pakkumine/faktid.md`
+## Pakkumine → `teadmus/faktid.md`
 
 1. „Kas sul on hinnakiri, KKK või tingimused kuskil kirjas? Kopeeri siia või saada ekraanipilt.”
 2. Kui pole: „Nimeta teenused või tooted, mida müüd, ükshaaval koos hinnaga.”
@@ -90,7 +90,7 @@ Vastused 6, 7 ja 8 lähevad lõiku „Tööpiirid digikolleegile”.
 
 Kirjuta iga fakt eraldi reale. Märgi allikaks „omanik, intervjuu” või dokumendi nimi ja lisa tänane kuupäev. Jäta omahinnad, kulud ja sisemised arvutused välja ning ütle mulle, kui midagi välja jätsid.
 
-## Hääl → `5-haal/kuidas-kirjutame.md`
+## Hääl → `teadmus/kuidas-kirjutame.md`
 
 1. „Kas sinatad või teietad klienti?”
 2. „Kopeeri siia üks vastus, mille oled ise kliendile saatnud. Eemalda enne kliendi andmed.”
@@ -99,7 +99,7 @@ Kirjuta iga fakt eraldi reale. Märgi allikaks „omanik, intervjuu” või doku
 
 Salvesta kirjad faili muutmata. Kui mõni hind või tingimus kehtis ainult ühele kliendile, lisa märge, et näidiskirja hindu ei saa faktidena kasutada.
 
-## Korduvad tööd → `7-tood/korduvad-tood.md`
+## Korduvad tööd → `teadmus/korduvad-tood.md`
 
 1. „Mis töid teed iga nädal peaaegu samamoodi? Nimeta kõik, mis meelde tulevad.” Käi need ükshaaval läbi. Kui nimetan eeltöös rohkem kui kolm, küsi: „Millised kolm võtavad kõige rohkem aega?” Ülejäänud kirjuta faili lõiku „Veel kandidaate”.
 2. „Mis selle käivitab?”
@@ -114,14 +114,14 @@ Kui kordade arv või ajakulu jäi teadmata, jäta rida arvutamata ja märgi „k
 
 Paku lõiku „Esimene kandidaat” üks tabeli töö, mis kordub tihti, mille puhul on viga kohe näha ja mille vea tagajärg on väike. Põhjenda valikut ühe lausega. Valiku kinnitan mina.
 
-## Mina → `1-mina/mina.md` (täisrežiimis)
+## Mina → `teadmus/mina.md` (täisrežiimis)
 
 1. „Mis on sinu roll ettevõttes?”
 2. „Mida otsustad ainult sina?”
 3. „Mis töö võtab su nädalast kõige rohkem aega, kuigi sa ei peaks seda ise tegema?”
 4. „Mida sa AI-le kunagi ei annaks?”
 
-## Kliendid → `4-kliendid/kliendid.md` (täisrežiimis)
+## Kliendid → `teadmus/kliendid.md` (täisrežiimis)
 
 1. „Kirjelda oma tüüpilist klienti. Mis olukorras ta sinu poole pöördub?” Kui kliente veel pole, küsi ideaalse kliendi kohta ja märgi „oletus”.
 2. „Mis sõnadega ta oma muret kirjeldab?”
@@ -132,7 +132,7 @@ Paku lõiku „Esimene kandidaat” üks tabeli töö, mis kordub tihti, mille p
 
 Ära kirjuta faili klientide nimesid. Kui nimetan klienti nimepidi, kirjuta „üks klient”.
 
-## Süsteemid → `6-susteemid/susteemid.md` (täisrežiimis)
+## Süsteemid → `teadmus/susteemid.md` (täisrežiimis)
 
 1. „Mis programmiga loed ja saadad kliendikirju?”
 2. „Kus on kalender või broneeringud?”
