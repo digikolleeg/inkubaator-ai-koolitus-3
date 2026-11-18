@@ -6,10 +6,10 @@ Kui eeltöö jääb pooleli, tule ikka. Saad harjutada näidisfirmaga ja teha sa
 
 1. Laadi repo alla (**Code → Download ZIP**) ja paki lahti.
 2. Ava kaust [`ettevotte-aju/`](ettevotte-aju/) ja loe [`LOE-MIND.md`](ettevotte-aju/LOE-MIND.md).
-3. Anna kaust Claude'ile, ChatGPT-le või Codexile. Juhend: [Claude](tootuba/claude.md) · [Codex või ChatGPT](tootuba/codex-chatgpt.md).
+3. Anna kaust Claude'ile või ChatGPT-le. Juhend: [Claude](tootuba/claude.md) · [ChatGPT](tootuba/codex-chatgpt.md).
 4. Kirjuta: `Loe AGENTS.md ja alusta eeltööd.`
 
-AI küsib sinu ettevõtte, pakkumise, hääle ja korduvate tööde kohta, ühe küsimuse korraga. Lõpus näed, mitu tundi kuus need tööd võtavad.
+AI küsib sinu ettevõtte, pakkumise, hääle ja korduvate tööde kohta, ühe küsimuse korraga.
 
 Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele kaustast `ettevotte-aju/` manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `2-ettevote/kes-me-oleme.md`, `3-pakkumine/faktid.md`, `5-haal/kuidas-kirjutame.md` ja `7-tood/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise samasse kausta.
 
