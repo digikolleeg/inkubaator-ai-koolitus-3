@@ -23,4 +23,4 @@ Kui kirju on vähem, kirjuta puuduvad ise. Mõtle, mida kliendid sinult tõenäo
 
 ## Kaasa
 
-Võta kaasa sülearvuti ja laadija. Sobib olemasolev Claude'i, ChatGPT või Codexi konto.
+Võta kaasa sülearvuti ja laadija. Sobib olemasolev Claude'i või ChatGPT konto.

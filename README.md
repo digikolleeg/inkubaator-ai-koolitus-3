@@ -30,7 +30,7 @@ Kell 17 oskad ilma juhendajata:
 
 | Kaust | Mis seal on | Kas AI-le anda |
 |---|---|---|
-| [`tootuba/`](tootuba/) | käsiraamat; eraldi juhend Claude'ile ja Codexile/ChatGPT-le | ei, see on sinu jaoks |
+| [`tootuba/`](tootuba/) | käsiraamat; eraldi juhend Claude'ile ja ChatGPT-le | ei, see on sinu jaoks |
 | [`intervjuu/`](intervjuu/) | intervjuu, mille põhjal valmib tööjuhis `digikolleeg.md` | jah, kopeeri vestlusesse |
 | [`naidisfirmad/`](naidisfirmad/) | kaks väljamõeldud ettevõtet: Käpakamber (koerasalong) ja Tööruum (IT-hooldus) | jah, ühe firma kaust korraga |
 | [`testkirjad/`](testkirjad/) | näidisfirmade testpöördumised | ainult kirja tekst, ükshaaval |

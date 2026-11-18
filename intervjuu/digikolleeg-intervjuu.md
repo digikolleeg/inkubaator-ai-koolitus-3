@@ -1,6 +1,6 @@
 # Digikolleegi intervjuu (kleebitav)
 
-Kopeeri kogu fail uude vestlusse (Codex, ChatGPT või Claude). Skilli pole vaja. Juhend: `tootuba/codex-chatgpt.md`.
+Kopeeri kogu fail uude vestlusse (Claude või ChatGPT). Skilli pole vaja. Juhend: `tootuba/codex-chatgpt.md`.
 
 ---
 

@@ -2,7 +2,7 @@
 
 Siia paned kirja, mida AI peab sinu ettevõtte kohta teadma: mida müüd, kellele ja kuidas kliendiga räägid. Uues vestluses annad talle need failid ega pea kõike otsast peale seletama.
 
-Kaustas on tavalised tekstifailid sinu arvutis. Neid saad kasutada Claude'i, ChatGPT ja Codexiga. Uut kontot ega programmi pole vaja.
+Kaustas on tavalised tekstifailid sinu arvutis. Neid saad kasutada Claude'i ja ChatGPT-ga (ka Codexi äpis). Uut kontot ega programmi pole vaja.
 
 ## Seitse osa
 
@@ -34,7 +34,7 @@ Iga osa faili alguses on lühike kirjeldus, seis ja kuupäev. Seda plokki nimeta
 ## Kuidas alustada (30 minutit)
 
 1. Laadi kaust alla ja pane see kohta, kust selle üles leiad.
-2. Ava Claude, ChatGPT või Codex ja anna talle ligipääs sellele kaustale. Juhend: [Claude](../tootuba/claude.md) · [Codex või ChatGPT](../tootuba/codex-chatgpt.md).
+2. Ava Claude või ChatGPT ja anna talle ligipääs sellele kaustale. Juhend: [Claude](../tootuba/claude.md) · [ChatGPT](../tootuba/codex-chatgpt.md).
 3. Kirjuta: `Loe AGENTS.md ja alusta eeltööd.`
 
 AI küsib ühe küsimuse korraga ja täidab neli osa: ettevõte, pakkumine, hääl ja korduvad tööd. Iga osa lõpus näitab ta faili ja küsib kinnitust. Lõpus näed, mitu tundi kuus su korduvad tööd võtavad. Kui tahad pooleli jätta, kirjuta `paus`. Järgmine kord kirjuta `jätka`.

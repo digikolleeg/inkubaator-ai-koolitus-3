@@ -4,7 +4,7 @@ Hoia see fail väljaspool AI töökausta. Paroole ega isikuandmeid pole siin vaj
 
 ```text
 Kuupäev:
-Rakendus ja konto (nt Claude Pro, Codex tasuta):
+Rakendus ja konto (nt Claude Pro, ChatGPT tasuta):
 Rada: oma ettevõte / Käpakamber / Tööruum
 Failide ligipääs: kaust / manused / kleebitud tekst
 

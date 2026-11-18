@@ -2,7 +2,7 @@
 
 Tee sammud järjekorras ja kontrolli iga sammu lõpus tulemust. Kui jääd hätta, kasuta **varuteed** ja jätka. Ära ületa sammu aega rohkem kui viie minuti võrra.
 
-Kuidas anda AI-le kaust: [Claude](claude.md) · [Codex või ChatGPT](codex-chatgpt.md).
+Kuidas anda AI-le kaust: [Claude](claude.md) · [ChatGPT](codex-chatgpt.md).
 
 Hoia testkirjad, hindamisvõtmed ja see käsiraamat **väljaspool** kausta, mille AI-le annad.
 
