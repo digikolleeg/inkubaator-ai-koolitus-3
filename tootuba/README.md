@@ -88,6 +88,7 @@ vastust näita failid kinnitamiseks. Kasuta olemasolevat infot ja märgi, mis on
 
 3. Näidisfirmaga võid öelda: „Harjutan väljamõeldud ettevõtte omanikuna. Kasutan ainult failides olevaid fakte ja tööpiire, midagi juurde ei mõtle.”
 4. Kontrolli pakutud faile. Kinnita ainult see, mis on õige.
+5. Salvesta `digikolleeg.md`: oma ettevõtte puhul kausta `ettevotte-aju/digikolleegid/vastaja/`, näidisfirma puhul samasse kausta firma failidega.
 
 **Kontroll:** failis `digikolleeg.md` on kirjas, millised failid uude vestlusesse anda, mida digikolleeg tohib ja millal peab sinult küsima.
 
@@ -156,7 +157,7 @@ vana ja uut lõiku. Ära muuda faili enne minu kinnitust ega lisa uusi oletusi.
 
 Seni kopeerisid kirja vestlusesse. Nüüd laseme AI-l lugeda seda failist.
 
-Loo kausta `postkast/` fail `proov-01.txt` väljamõeldud pöördumise ja oma tunnusega (nt `KASK`). Palu AI-l fail lugeda ning enne vastamist öelda tunnus ja kirja algus.
+Tee kausta, mille AI-le andsid, alamkaust `postkast/` ja loo sinna fail `proov-01.txt` väljamõeldud pöördumise ja oma tunnusega (nt `KASK`). Palu AI-l fail lugeda ning enne vastamist öelda tunnus ja kirja algus.
 
 Märgi logisse, kas AI luges kirja ühendatud allikast või andsid talle faili käsitsi.
 

@@ -41,7 +41,7 @@ Iga osa faili alguses on lühike kirjeldus, seis ja kuupäev. Seda plokki nimeta
 
 AI küsib ühe küsimuse korraga ja täidab neli osa: ettevõte, pakkumine, hääl ja korduvad tööd. Iga osa lõpus näitab ta faili ja küsib kinnitust. Lõpus näed, mitu tundi kuus su korduvad tööd võtavad. Kui tahad pooleli jätta, kirjuta `paus`. Järgmine kord kirjuta `jätka`.
 
-Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `teadmus/kes-me-oleme.md`, `teadmus/faktid.md`, `teadmus/kuidas-kirjutame.md` ja `teadmus/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise õigesse kohta: osad kausta `teadmus/`, `kaart.md` kausta juurde.
+Kui AI ei näe kausta (näiteks ChatGPT veebis), lisa vestlusele manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `teadmus/kes-me-oleme.md`, `teadmus/faktid.md`, `teadmus/kuidas-kirjutame.md` ja `teadmus/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` Salvesta failid, mida AI näitab, ise õigesse kohta: osad kausta `teadmus/`, `kaart.md` kausta `ettevotte-aju/` juurde.
 
 ## Kolm reeglit
 

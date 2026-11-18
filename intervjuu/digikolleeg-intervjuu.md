@@ -1,6 +1,6 @@
 # Digikolleegi intervjuu (kleebitav)
 
-Kopeeri kogu fail uude vestlusse (Claude või ChatGPT). Skilli pole vaja. Juhend: `tootuba/codex-chatgpt.md`.
+Kopeeri kogu fail uude vestlusse (Claude või ChatGPT). Skilli pole vaja. Juhend: `tootuba/README.md`, samm 4.
 
 ---
 
@@ -70,7 +70,7 @@ Digikolleeg peab ära tundma kolm olukorda: **info olemas** (vastab faktide põh
 
 ## Samm 5. Failid kinnitamiseks
 
-Näita iga uut või muudetavat faili koodiplokina koos täpse failinimega. Olemasolevast failist näita ainult lisanduvat osa. Küsi failide kohta üks kinnitus. Ilma kinnituseta ära ütle, et salvestasid.
+Näita iga uut või muudetavat faili koodiplokina koos täpse failiteega. Kui mul on kaust `ettevotte-aju/`, kirjuta teed selle kausta suhtes: tööjuhis `digikolleegid/<töö>/digikolleeg.md`, faktid `teadmus/faktid.md`. Olemasolevast failist näita ainult lisanduvat osa. Küsi failide kohta üks kinnitus. Ilma kinnituseta ära ütle, et salvestasid.
 
 **Faktide fail:** iga fakt ühel real koos allika ja kuupäevaga. Puuduv: "katmata, küsi omanikult".
 
@@ -79,7 +79,7 @@ Näita iga uut või muudetavat faili koodiplokina koos täpse failinimega. Olema
 1. Töö: milline pöördumine, kust see tuleb.
 2. Tohib / Ei tohi lubada / Peatub ja küsib. Kui piirid on juba `kes-me-oleme.md` failis, kirjuta ainult viide.
 3. Väljund: mustand ja eraldi rida "Kinnita enne saatmist: …".
-4. Käivitusmall: täpsed failinimed, mida uus vestlus peab lugema.
+4. Käivitusmall: täpsed failiteed, mida uus vestlus peab lugema.
 5. Parandamine. Kui mustand on vale, küsi ükshaaval: "Kas digikolleegil oli fakt või allikas puudu?", "Kas sul endal oli otsus tegemata?", "Kas sisu oli õige, aga sõnastus ei sobinud?" Siis:
    - vale või puuduv fakt → faktide fail, allika ja kuupäevaga;
    - lubas midagi, mida ei tohi → piirid, Ei tohi lubada;
@@ -91,6 +91,6 @@ Näita iga uut või muudetavat faili koodiplokina koos täpse failinimega. Olema
 
 ## Samm 6. Lõpp
 
-Ütle mulle: „Salvesta failid ühte kausta. Ava uus vestlus ning anna AI-le käivitusmallis nimetatud failid ja üks testkiri. Enne parandamist vaata vastus üle: kas faktid on õiged, kas digikolleeg tegi seda, mida vaja, kas see kõlab sinu moodi ja kas saadaksid selle kliendile?”
+Ütle mulle: „Salvesta failid sinna, kuhu näitasin. Ettevõtte aju puhul läheb `digikolleeg.md` kausta `digikolleegid/<töö>/` ja digikolleeg tuleb lisada faili `kaart.md` tabelisse. Ava uus vestlus ning anna AI-le käivitusmallis nimetatud failid ja üks testkiri. Enne parandamist vaata vastus üle: kas faktid on õiged, kas digikolleeg tegi seda, mida vaja, kas see kõlab sinu moodi ja kas saadaksid selle kliendile?”
 
 Alusta nüüd sammust 1.

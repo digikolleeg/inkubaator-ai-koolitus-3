@@ -1,7 +1,7 @@
 # Ettevõtte aju intervjuu
 
 Kui AI näeb seda kausta, kirjuta talle: `Loe AGENTS.md ja alusta eeltööd.`
-Kui ei näe (näiteks ChatGPT veebis), lisa vestlusele manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `teadmus/kes-me-oleme.md`, `teadmus/faktid.md`, `teadmus/kuidas-kirjutame.md` ja `teadmus/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` AI näitab iga valmis faili ja uuendatud kaardi ning sina salvestad need ise õigesse kohta: osad kausta `teadmus/`, `kaart.md` kausta juurde.
+Kui ei näe (näiteks ChatGPT veebis), lisa vestlusele manusena kuus faili: `INTERVJUU.md`, `kaart.md`, `teadmus/kes-me-oleme.md`, `teadmus/faktid.md`, `teadmus/kuidas-kirjutame.md` ja `teadmus/korduvad-tood.md`. Kirjuta: `Loe INTERVJUU.md ja alusta eeltööd.` AI näitab iga valmis faili ja uuendatud kaardi ning sina salvestad need ise õigesse kohta: osad kausta `teadmus/`, `kaart.md` kausta `ettevotte-aju/` juurde.
 
 ---
 
