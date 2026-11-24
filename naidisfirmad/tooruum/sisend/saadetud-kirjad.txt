@@ -1,0 +1,41 @@
+NÄIDISFIRMA · Tööruum · Marko saadetud kirjad
+
+Kellele: raamatupidamine@example.invalid
+Teema: Kolme arvuti hooldus
+Kuupäev: 03.11.2026
+
+Tere!
+Kolme Windowsi arvuti hooldus Tavalises paketis maksab 3 × 29 € = 87 € kuus käibemaksuta. Kui vajate kohapeal käimist sagedamini kui kaks korda kvartalis, sobib Täis pakett: 3 × 49 € = 147 € kuus. Leping on 12 kuuks.
+Parimat,
+Marko
+Tööruum
+
+Kellele: kontor@example.invalid
+Teema: Pakkumine uude kontorisse
+Kuupäev: 05.11.2026
+
+Tere,
+Pakkumiseks on mul teie Tallinna kontori kohta veel paari asja vaja. Mitu arvutit teil on ja kas soovite hooldust kõigile? Mitu Windowsi arvutit ja mitu Maci teil on? Kui vastused käes, saadan pakkumise kahe tööpäeva jooksul.
+Parimat,
+Marko
+Tööruum
+
+Kellele: ladu@example.invalid
+Teema: Tugi laupäevase kolimise ajal
+Kuupäev: 12.11.2026
+
+Tere!
+Laupäevane tugi sinu tavalepingusse ei kuulu. Kirjuta palun, mis kell kolite ja millised seadmed peavad kohe tööle saama. Vaatan siis üle, kas saan selleks ajaks abi pakkuda.
+Parimat,
+Marko
+Tööruum
+
+Kellele: tookoda@example.invalid
+Teema: Printer jäi seisma
+Kuupäev: 19.11.2026
+
+Tere!
+Sinu Tavaline pakett katab ka printeri hoolduse. Võtame rikke tööpäeval 4 tunni jooksul käsile. Saada mulle printeri ekraanil olev veateade.
+Parimat,
+Marko
+Tööruum

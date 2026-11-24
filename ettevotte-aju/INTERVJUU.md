@@ -94,7 +94,7 @@ Kirjuta iga fakt eraldi reale. Märgi allikaks „omanik, intervjuu” või doku
 
 1. „Kas sinatad või teietad klienti?”
 2. „Kopeeri siia üks vastus, mille oled ise kliendile saatnud. Eemalda enne kliendi andmed.”
-3. „Lisa järgmine vastus, võimalusel teisest olukorrast (näiteks hinnapäring, kaebus, teietav klient).” Küsi seni, kuni vastuseid on vähemalt kolm. Siis küsi: „Kas sul on veel näiteid? Nende järgi saan täpsemalt aru, kuidas sa kirjutad. Kui rohkem pole, ütle valmis.” Ülemist piiri pole.
+3. „Lisa järgmine vastus, võimalusel teisest olukorrast (näiteks hinnapäring, puuduva info küsimine, olukord, kus pidid ise otsustama: erihind, erand, kaebus).” Küsi seni, kuni vastuseid on vähemalt kolm. Siis küsi: „Kas sul on veel näiteid? Nende järgi saan täpsemalt aru, kuidas sa kirjutad. Kui rohkem pole, ütle valmis.” Ülemist piiri pole.
 4. „Mis sõna või väljendit sa kliendile ei kirjutaks?” (näiteks hüüumärgid, emotikonid, ingliskeelsed sõnad, liiga ametlik keel)
 
 Salvesta kirjad faili muutmata. Kui mõni hind või tingimus kehtis ainult ühele kliendile, lisa märge, et näidiskirja hindu ei saa faktidena kasutada.

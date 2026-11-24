@@ -1,0 +1,37 @@
+NÄIDISFIRMA · Käpakamber · Liisi saadetud kirjad
+
+Kellele: pilviku.kodu@example.invalid
+Teema: Pilviku pesu
+Kuupäev: 10.11.2026
+
+Tere,
+Pilvik kaalub 18 kilo, tema pesu koos kuivatusega maksab 38 €. Arvesta ühe kuni pooleteise tunniga. Võid vahepeal ära käia. Saadan sulle SMS-i, kui Pilvik on valmis.
+Parimat,
+Liisi
+
+Kellele: tipi.kodu@example.invalid
+Teema: Tipi esimene salongikäik
+Kuupäev: 12.11.2026
+
+Tere!
+Kas soovid Tipile pesu või pügamist? Kui palju ta kaalub? Siis saan sulle hinna öelda. Aja saad valida meie broneerimisvormis.
+Parimat,
+Liisi
+
+Kellele: sambla.kodu@example.invalid
+Teema: Sammal kardab kääre
+Kuupäev: 17.11.2026
+
+Tere,
+Enne aja võtmist lepime kokku, kas saan Sammalt pügada. Kirjutage palun, kuidas ta viimati käitus, kui käppade juurde jõudsite. Siis saan otsustada, kas võtan ta vastu.
+Parimat,
+Liisi
+
+Kellele: upsaku.kodu@example.invalid
+Teema: Upsak kratsib kõrva
+Kuupäev: 20.11.2026
+
+Tere,
+Palun saatke foto kohast, mida Upsak kratsib. Kui ta on rahutu, pöörduge loomaarsti poole. Vaatan teie kaebuse ise üle ja vastan ühe tööpäeva jooksul.
+Parimat,
+Liisi
