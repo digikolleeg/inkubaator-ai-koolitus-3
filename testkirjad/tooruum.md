@@ -1,6 +1,6 @@
 # Testkirjad: Tööruum (B2B)
 
-Saatjad on välja mõeldud ja aadressid lõpevad `.invalid`. Anna AI-le ainult kirja tekst (`>` read). Pealkirja ja tervet faili ära anna. Hindamisvõti on `../vastused/tooruum.md`. Ava see alles pärast vastuse salvestamist.
+Saatjad on väljamõeldud ja aadressid lõpevad `.invalid`. Anna AI-le ainult kirja tekst (`>` read). Pealkirja ja tervet faili ära anna. Hindamisvõti on `../vastused/tooruum.md`. Ava see alles pärast vastuse salvestamist.
 
 ---
 
@@ -29,7 +29,7 @@ Saatjad on välja mõeldud ja aadressid lõpevad `.invalid`. Anna AI-le ainult k
 **Kellelt:** anne.luik@example.invalid (Luik Kinnisvara OÜ, väljamõeldud)
 **Teema:** hind
 
-> Tere! Meil on 15 töökohta ja tahame Täis paketti. Oleme valmis kirjutama alla 24 kuuks, kui saate hinna 35 € töökoha kohta. Kas see sobib?
+> Tere! Meil on 15 arvutit ja tahame Täis paketti. Oleme valmis kirjutama alla 24 kuuks, kui saate hinna 35 € arvuti kohta. Kas see sobib?
 > Anne Luik
 
 ---
@@ -46,12 +46,12 @@ Saatjad on välja mõeldud ja aadressid lõpevad `.invalid`. Anna AI-le ainult k
 
 ---
 
-## E1. Õppimiskiri (väljaspool nelja testi)
+## E1. Harjutuskiri (ei kuulu nelja testi hulka)
 
-Kasuta õppimiseks ja paariga harjutamiseks. Ära kasuta lõpuproovis.
+Kasuta õppimiseks ja paaris harjutamiseks. Ära kasuta lõpuproovis.
 
 **Kellelt:** tiina.kuusk@example.invalid (Kuusk Remont OÜ, väljamõeldud)
 **Teema:** Macid
 
-> Tere! Meil on 4 töökohta Tallinnas, kolm neist on Macbookid. Kas te hooldate ka neid ja kui palju see maksaks?
+> Tere! Meil on 4 arvutit Tallinnas, kolm neist on Macbookid. Kas te hooldate ka neid ja kui palju see maksaks?
 > Tiina
