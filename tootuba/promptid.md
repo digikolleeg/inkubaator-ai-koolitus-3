@@ -1,6 +1,6 @@
 # Promptide leht · töötuba 24.11
 
-Slaidil näed sammu numbrit. QR-kood avab selle sammu juhise.
+Slaidil näed sammu numbrit. QR-kood avab selle sammu juhise. Slaidid PDF-ina: [slaidid.pdf](slaidid.pdf) (QR-koodidele saab seal ka klikkida).
 
 Kopeeri vestlusse tekst märksõna **Kleebi AI-le** alt. Ülejäänud juhised on sulle. Kui jääd hätta, vaata sama sammu jaotist **Kui ei tööta**.
 

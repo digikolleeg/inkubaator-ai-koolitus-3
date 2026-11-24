@@ -5,7 +5,7 @@ Tallinna Ettevõtlusinkubaator, 24. november 2026, kell 13–17.
 ## Alusta siit
 
 1. **Enne töötuba:** [tee eeltöö](EELTOO.md). Arvesta 30 minutiga.
-2. **Töötoa ajal:** ava [promptide leht](tootuba/promptid.md). Seal on iga sammu juhis ja tekstid, mida vestlusesse kopeerida. Slaidi QR-kood avab sama lehe õige sammu.
+2. **Töötoa ajal:** ava [promptide leht](tootuba/promptid.md). Seal on iga sammu juhis ja tekstid, mida vestlusesse kopeerida. Slaidi QR-kood avab sama lehe õige sammu. Slaidid koos klikitavate QR-linkidega: [tootuba/slaidid.pdf](tootuba/slaidid.pdf).
 
 Giti pole vaja. Vajuta GitHubis **Code → Download ZIP** ja paki allalaaditud fail lahti.
 
